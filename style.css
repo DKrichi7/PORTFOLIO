@@ -126,6 +126,9 @@ p{
   .carousel-control{
     display: none !important;
   }
+	.contacttitle ul {
+    left: 48% !important;
+  }
   /*-- CONTACT END --*/
   
 }
