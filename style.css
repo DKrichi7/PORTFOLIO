@@ -149,6 +149,9 @@ p{
     padding-left: 62px !important;
     padding-right: 50px !important;
   }
+	.contacttitle ul {
+    left: 44% !important;
+  }
 }
 /* ==================== MEDAI (375) END ==================== */
 
@@ -180,7 +183,7 @@ p{
     display: none !important;
   }
   .contacttitle ul {
-    left: 48% !important;
+    left: 46% !important;
   }
 }
 /* ==================== MEDAI (390) END ==================== */
